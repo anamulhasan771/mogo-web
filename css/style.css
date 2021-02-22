@@ -203,7 +203,6 @@ span.logo-head {
     bottom: 111px;
     width: 30px;
     border: 1px solid #ffffff;
-    height: 2px;
 }
 .slider-text .btn-area {
     margin-top: -1%;
@@ -274,10 +273,10 @@ button.owl-dot.active {
     position: absolute;
     content: "";
     height: 1px;
-    width: 50px;
+    width: 22px;
     bottom: 0;
     background: #353535 none repeat scroll 0 0;
-    left: -5%;
+    left: -2%;
     transform: translateX(50%);
     margin-left: -3px;
 }
@@ -470,12 +469,12 @@ li.fore .main-box:hover a:active {
     position: absolute;
     content: "";
     height: 1px;
-    width: 50px;
+    width: 22px;
     bottom: -17px;
     background: #353535 none repeat scroll 0 0;
-    left: -5%;
+    left: 1%;
+    margin-left: 2px;
     transform: translateX(50%);
-    margin-left: 19px;
     margin-bottom: 9px;
 }
 .case-head-area h1 {
@@ -550,13 +549,16 @@ element.style {
     position: absolute;
     content: "";
     height: 1px;
-    width: 50px;
+    width: 22px;
     bottom: -17px;
     background: #353535 none repeat scroll 0 0;
-    left: -5%;
+    left: -2%;
     transform: translateX(50%);
-    margin-left: 19px;
+    margin-left: 17px;
     margin-bottom: 24px;
+}
+.main-area {
+    margin-top: 44px;
 }
 .read-pra p {
     font-size: 18px;
@@ -654,6 +656,8 @@ element.style {
     font-size: 14px;
     font-family: regular;
 }
+/* same table of read our mind another way */
+
 
 
 /* terms-area start */
@@ -683,6 +687,7 @@ h1.terms-title:before {
     height: 1px;
     width: 30px;
     border: 1px solid #333333;
+    background: #333333;
 }
 .main-box.testmonial {
     right: 2%;
@@ -702,9 +707,17 @@ h1.terms-title:before {
     bottom: 63px;
     left: 0%;
 }
+.main-box.testimonial-3 img {
+    height: 100%;
+    width: 100%;
+}
 .main-box.testimonial-4 {
     top: 85px;
     left: -1%;
+}
+.main-box.testimonial-4 img {
+    height: 100%;
+    width: 100%;
 }
 .main-box.testmonial img {
     height: 100%;
@@ -713,17 +726,33 @@ h1.terms-title:before {
     left: 0%;
     top: 10px;
 }
+.main-box.testimonial-5 img {
+    height: 100%;
+    width: 100%;
+}
 .main-box.testimonial-6 {
     bottom: 62px;
     left: 1%;
+}
+.main-box.testimonial-6 img {
+    height: 100%;
+    width: 100%;
 }
 .main-box.testimonial-7 {
     left: 2%;
     top: 9px;
 }
+.main-box.testimonial-7 img {
+    height: 100%;
+    width: 100%;
+}
 .main-box.testimonial-8 {
     bottom: 63px;
     left: 3%;
+}
+.main-box.testimonial-8 img {
+    height: 100%;
+    width: 100%;
 }
 
 /* footer-area */
