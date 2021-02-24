@@ -60,6 +60,10 @@ h1.terms-title:before {
   left: 6%;
   margin-left: 9px;
 }
+.slider-text {
+  left: 10%;
+  margin-left: 6px;
+}
 
 
 
@@ -590,6 +594,9 @@ span.three {
 }
 span.fore {
   margin-left: 44%;
+}
+.slider-text {
+  left: 22%;
 }
 
 
