@@ -31,8 +31,6 @@ header {
     transition: 0.3s;
 
 }
-.main-menu {}
-.main-menu ul{}
 .main-menu ul li {
 	display: inline-block;
 	position: relative;
@@ -183,8 +181,6 @@ span.logo-head {
 	position: relative;
 }
 /* slider-area */
-.single-img {}
-.single-img img {}
 .slider-img img {
     height: 100vh;
 }
@@ -287,7 +283,6 @@ button.owl-dot.active {
     text-align: left;
     margin-bottom: 357px;
 }
-.single-service {}
 .single-service i {
     font-size: 13px;
 }
@@ -489,9 +484,6 @@ li.fore .main-box:hover a:active {
 }
 
 /* project-title-area */
-
-element.style {
-}
 .project-tile {
     margin-bottom: 200px;
 }
